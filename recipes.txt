@@ -1,0 +1,12 @@
+# House book: one recipe per block
+recipe Negroni
+method stir 30s
+gin 1 oz 40% @ 28.00/750ml
+campari 1 oz 25% @ 21.50/1000ml
+sweet vermouth 1 oz 16% @ 14.00/750ml
+
+recipe Martini
+method stir 30s
+gin 2 1/2 oz 40% @ 28.00/750ml
+dry vermouth 3/4 oz 18% @ 12.00/750ml
+orange bitters 2 dash 0%
